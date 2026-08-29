@@ -9,3 +9,12 @@ h1, h2, h3 {
   color: #1a241e;
   font-family: 'Cormorant Garamond', serif;
 }
+header .site-title {
+  display: none;
+}
+.site-branding {
+  display: none;
+}
+header a.btn {
+  display: none;
+}
