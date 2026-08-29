@@ -1,4 +1,15 @@
 baseURL = "https://fchiaravini.github.io/"
 languageCode = "es"
-title = "Mi Portfolio"
+title = "Franco Chiaravini"
 theme = "gallery"
+
+[params]
+  description = "Fotografía"
+  dateFormat = "2 January 2006"
+  customCSS = ["css/custom.css"]
+
+  [params.home]
+    title = "Franco Chiaravini"
+
+[params.socialIcons]
+  instagram = "https://www.instagram.com/francochiaravini"
