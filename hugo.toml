@@ -1,0 +1,4 @@
+baseURL = "https://fchiaravini.github.io/"
+languageCode = "es"
+title = "Mi Portfolio"
+theme = "gallery"
